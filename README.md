@@ -1,4 +1,4 @@
 # JS-Code
-A code repo for javascript
-Author - Me
+A code repo for javascript.
+  Author - Me
 
